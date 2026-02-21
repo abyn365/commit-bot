@@ -1,9 +1,8 @@
 name: activeme
 
 on:
-  push
+  push:
   workflow_dispatch:
-
   schedule:
     - cron: "45 * * * *"
 
