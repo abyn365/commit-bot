@@ -1,10 +1,6 @@
 name: activeme
 
 on:
-  push:
-    branches:
-      - main
-
   workflow_dispatch:
 
   schedule:
