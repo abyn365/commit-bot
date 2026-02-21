@@ -24,8 +24,8 @@ jobs:
           
       - name: Commit Changes
         run: |
-          git config --local user.name "L RMN"
-          git config --local user.email "lrmn.dev@gmail.com"
+          git config --local user.name "abyn365"
+          git config --local user.email "abyn@abyn.xyz"
           git add -A
           
           arr[0]="chore(bot): 💤 Just woke up to commit"
