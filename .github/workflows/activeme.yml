@@ -1,6 +1,7 @@
 name: activeme
 
 on:
+  push
   workflow_dispatch:
 
   schedule:
