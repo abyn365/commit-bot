@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
       
   schedule:
   - cron: "*/120 * * * *" # https://crontab.guru/#*/30_*_*_*_*
