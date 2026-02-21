@@ -1,4 +1,4 @@
-name: Commit bot
+name: activeme
 
 on:
   push:
